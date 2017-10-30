@@ -1,0 +1,14 @@
+<svg width="54" height="54" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>quilted</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-8478 -4729)">
+<g id="quilted">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(8478 4729)" fill="#D5B779"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 53.4 26.4L 44.5 17.5L 43.9 16.9L 37.4 10.4L 36.8 9.8L 27.9 0.9L 27 0L 26.4 0.6L 17.5 9.5L 16.9 10.1L 10.4 16.6L 9.8 17.2L 0.9 26.1L 0 27L 0.6 27.6L 9.5 36.5L 10.1 37.1L 16.6 43.6L 17.2 44.2L 26.1 53.1L 27 54L 27.6 53.4L 36.5 44.5L 37.1 43.9L 43.6 37.4L 44.2 36.8L 53.1 27.9L 54 27L 53.4 26.4ZM 42.1 18.5L 34.8 25.8L 28.3 19.3L 35.6 12L 42.1 18.5ZM 33.5 27L 27 33.5L 20.5 27L 27 20.5L 33.5 27ZM 27 3.4L 34.3 10.7L 27 17.9L 19.7 10.6L 27 3.4ZM 18.5 11.9L 25.8 19.2L 19.3 25.7L 12 18.4L 18.5 11.9ZM 3.4 27L 10.7 19.7L 18 27L 10.7 34.3L 3.4 27ZM 11.9 35.5L 19.2 28.2L 25.7 34.7L 18.4 42L 11.9 35.5ZM 27 50.6L 19.7 43.3L 27 36L 34.3 43.3L 27 50.6ZM 35.5 42.1L 28.2 34.8L 34.7 28.3L 42 35.6L 35.5 42.1ZM 43.4 34.3L 36.1 27L 43.4 19.7L 50.7 27L 43.4 34.3Z"/>
+</defs>
+</svg>

@@ -1,0 +1,22 @@
+<svg width="52" height="52" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>contrast</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-8194 -4731)">
+<g id="contrast">
+<g id="Contrast">
+<g id="Union 1">
+<g id="Union">
+<g id="Group">
+<g id="path0 fill">
+<use xlink:href="#path0_fill" transform="translate(8194 4731)" fill="#D5B779"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 26 49.7L 26 2.29999C 12.9 2.29999 2.29999 12.9 2.29999 26C 2.29999 39.1 12.9 49.7 26 49.7ZM 26 0C 40.4 0 52 11.6 52 26C 52 40.4 40.4 52 26 52C 11.6 52 0 40.4 0 26C 0 11.6 11.6 0 26 0Z"/>
+</defs>
+</svg>
